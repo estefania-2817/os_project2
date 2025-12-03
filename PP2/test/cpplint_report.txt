@@ -1,0 +1,4 @@
+../decode_c/src/main.c:81:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+../decode_c/src/main.c:127:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+Done processing ../decode_c/src/main.c
+Total errors found: 2
